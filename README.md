@@ -6,15 +6,22 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+program to circulate n variables
 
-### Step 2: 
+### Step 2:
+define the function
+
 ### Step 3: 
 Get the value from the user for the number of rotation
+
 ### Step 4: 
 Using the slicing concept rotate the list
 
-### Step 5: 
+### Step 5:
+print the list
+
 ### Step 6: 
+call the function
 ## Program:
 ```
 #Program to circulate N values.
@@ -31,3 +38,4 @@ n=int(input())
 ![output](nvariables.png)
 
 ## Result:
+Thus,the experiment was executed successfully..
