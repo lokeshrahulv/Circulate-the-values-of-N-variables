@@ -35,7 +35,7 @@ l=eval(input())
 n=int(input())
 ```
 ## Output:
-![output](nvariables.png)
+![output](/Screenshot%20(62).png)
 
 ## Result:
 Thus,the experiment was executed successfully..
