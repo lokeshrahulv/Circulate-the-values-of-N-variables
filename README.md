@@ -35,7 +35,8 @@ l=eval(input())
 n=int(input())
 ```
 ## Output:
-![output](/Screenshot%20(62).png)
+![output]![Screenshot (76)](https://user-images.githubusercontent.com/118423842/210341938-d0c029b1-ac9a-4771-9605-f5429e0a8e58.png)
+
 
 ## Result:
 Thus,the experiment was executed successfully..
